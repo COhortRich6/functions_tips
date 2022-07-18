@@ -1,0 +1,17 @@
+● Decomposition: The practice of splitting a major problem into smaller subproblems
+
+
+
+● Modular
+Development:A key component of the software design method known as modular 
+programming is the division of a program's functionality 
+
+
+● Incremental
+Development: A method of softwear development where the product designed and tested
+
+
+● Function Stub: A piece of code used to stand in place of a programm
+
+
+● Redundan: a piece of code that is never used 
